@@ -19,3 +19,7 @@ Technologies Used:
 - Wi-Fi: Wireless communication between the ESP32 and the central server.
 
 This project provides an excellent solution for modernizing home or office lighting without the need to replace bulbs with expensive smart models.
+
+Link for formal documentation: [documentation read only](https://docs.google.com/document/d/1PL8T47YplU_fQkvUMdV3DaWtb85a9pj8xWwZ7mGR4IY/edit?usp=sharing)
+
+## Docs
